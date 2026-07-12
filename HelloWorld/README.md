@@ -6,8 +6,7 @@ This software is a simple "Hello World" application written in TypeScript. When 
 
 The purpose of creating this software is to demonstrate a working TypeScript development environment and practice the complete software development workflow, including writing code, using version control with Git, documenting the project, and publishing it to GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
+[Software Demo Video] https://share.zight.com/8LuOJN9Y
 # Development Environment
 
 ## Tools Used
